@@ -1,0 +1,42 @@
+[
+  {
+    "@class": "telran.person.model.Child",
+    "id": 1000,
+    "name": "Mosche",
+    "birthDate": "2013-05-15",
+    "address": {
+      "city": "Lod",
+      "street": "Sokolov",
+      "building": 20,
+      "app": 10
+    },
+    "kindergarten": "Shalom"
+  },
+  {
+    "@class": "telran.person.model.Child",
+    "id": 3000,
+    "name": "Jacob",
+    "birthDate": "2014-12-15",
+    "address": {
+      "city": "Tel Aviv",
+      "street": "Sokolov",
+      "building": 20,
+      "app": 10
+    },
+    "kindergarten": "Perakh"
+  },
+  {
+    "@class": "telran.person.model.Employee",
+    "id": 2000,
+    "name": "Sarah",
+    "birthDate": "1990-09-23",
+    "address": {
+      "city": "Rehovot",
+      "street": "Herzl",
+      "building": 15,
+      "app": 28
+    },
+    "company": "Motorola",
+    "salary": 20000
+  }
+]
